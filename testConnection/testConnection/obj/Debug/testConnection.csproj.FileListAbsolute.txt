@@ -1,0 +1,9 @@
+c:\users\tarikul\documents\visual studio 2012\Projects\testConnection\testConnection\bin\Debug\testConnection.exe.config
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\bin\Debug\testConnection.exe
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\bin\Debug\testConnection.pdb
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\obj\Debug\testConnection.csprojResolveAssemblyReference.cache
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\obj\Debug\testConnection.Form1.resources
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\obj\Debug\testConnection.Properties.Resources.resources
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\obj\Debug\testConnection.csproj.GenerateResource.Cache
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\obj\Debug\testConnection.exe
+C:\Users\Tarikul\Documents\Visual Studio 2012\Projects\testConnection\testConnection\obj\Debug\testConnection.pdb
